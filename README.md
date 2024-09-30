@@ -16,4 +16,5 @@ The Compliance Risk Register project was created to systematically identify, ass
 - Risk Management Software: Utilized tools like Data Navigator to log risks and track mitigation efforts.
 - Project Management Software: Implemented tools like Microsoft Project or Asana to integrate compliance tracking into overall project management workflows.
 - Collaboration Tools: Leveraged platforms like Microsoft Teams or Slack for real-time communication and collaboration with project teams on compliance issues.
+- Data Analytics Tools: Used Excel and Tableau for data analysis, visualization, and reporting on compliance metrics.
 
